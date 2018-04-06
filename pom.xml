@@ -69,6 +69,6 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/ma
                 </configuration>
             </plugin>
         </plugins>
-        <finalName>MicroserviceConfigServer</finalName>
+        <finalName>ConfigServer</finalName>
     </build>
 </project>
